@@ -1,0 +1,1 @@
+$$\boxed{\int_0^\frac{3\pi}4\int_0^\pi\int_2^51\cdot\rho^2\sin\phi\;\;d\rho\,d\phi\,d\theta}$$

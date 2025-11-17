@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "a554a87c912aaf8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "639b5bf22da1e2d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5079ef3dbebcd92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX Typebox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LaTeX Typebox"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6aa967344f92a75b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b55a25242fa970c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f51887f39094988c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "359f33381287ec7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5fbde1b80ee2197e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "992786892cc83d3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "68f7be2b5a75407f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2ffab697f504f78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "11d931c285d869ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c4370e72e0c56fca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7d1c2995c1540c4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f51887f39094988c",
+  "lastOpenFiles": [
+    "Physics/Nov 17 - Two Masses on Spring.md",
+    "Physics/Problem Set 7.md",
+    "Physics/Nov 12 - Orbits Cont..md",
+    "Physics/Nov 10 - Orbits.md",
+    "LaTeX Typebox.md",
+    "Multi HW 6.md",
+    "Notes for Prof. Gandini.md",
+    "Multi/Nov 10 - Coordinate Systems.md",
+    "Multi/Oct 15 - Contour Lines & Maps.md",
+    "me.md",
+    "Multi",
+    "Physics",
+    "Pasted image 20251015130057.png",
+    "Pasted image 20251015130039.png",
+    "Pasted image 20251014200226.png",
+    "create a link.md"
+  ]
+}
